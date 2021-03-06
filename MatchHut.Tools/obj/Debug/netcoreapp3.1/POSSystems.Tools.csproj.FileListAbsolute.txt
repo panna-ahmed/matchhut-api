@@ -1,0 +1,16 @@
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Tools.exe
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Tools.deps.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Tools.runtimeconfig.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Tools.runtimeconfig.dev.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Tools.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Tools.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Helpers.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\bin\Debug\netcoreapp3.1\POSSystems.Helpers.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.csprojAssemblyReference.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.AssemblyInfoInputs.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.AssemblyInfo.cs
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.csproj.CoreCompileInputs.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.csproj.CopyComplete
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Tools\obj\Debug\netcoreapp3.1\POSSystems.Tools.genruntimeconfig.cache

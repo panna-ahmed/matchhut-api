@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Persistence\\MatchHut.Persistence.csproj": {}
+  },
+  "projects": {
+    "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Core\\MatchHut.Core.csproj": {
+      "version": "2.7.0",
+      "restore": {
+        "projectUniqueName": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Core\\MatchHut.Core.csproj",
+        "projectName": "MatchHut.Core",
+        "projectPath": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Core\\MatchHut.Core.csproj",
+        "packagesPath": "C:\\Users\\panna\\.nuget\\packages\\",
+        "outputPath": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\panna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            },
+            "System.ComponentModel.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Persistence\\MatchHut.Persistence.csproj": {
+      "version": "2.7.0",
+      "restore": {
+        "projectUniqueName": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Persistence\\MatchHut.Persistence.csproj",
+        "projectName": "MatchHut.Persistence",
+        "projectPath": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Persistence\\MatchHut.Persistence.csproj",
+        "packagesPath": "C:\\Users\\panna\\.nuget\\packages\\",
+        "outputPath": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\panna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Core\\MatchHut.Core.csproj": {
+                "projectPath": "G:\\Projects\\MatchHut\\matchhut-api\\MatchHut.Core\\MatchHut.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

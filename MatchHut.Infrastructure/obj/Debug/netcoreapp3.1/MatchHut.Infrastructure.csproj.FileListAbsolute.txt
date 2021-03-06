@@ -1,0 +1,4 @@
+G:\Projects\MatchHut\matchhut-api\MatchHut.Infrastructure\obj\Debug\netcoreapp3.1\MatchHut.Infrastructure.csprojAssemblyReference.cache
+G:\Projects\MatchHut\matchhut-api\MatchHut.Infrastructure\obj\Debug\netcoreapp3.1\MatchHut.Infrastructure.AssemblyInfoInputs.cache
+G:\Projects\MatchHut\matchhut-api\MatchHut.Infrastructure\obj\Debug\netcoreapp3.1\MatchHut.Infrastructure.AssemblyInfo.cs
+G:\Projects\MatchHut\matchhut-api\MatchHut.Infrastructure\obj\Debug\netcoreapp3.1\MatchHut.Infrastructure.csproj.CoreCompileInputs.cache

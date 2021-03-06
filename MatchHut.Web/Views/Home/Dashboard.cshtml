@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "MatchHut " + ViewData["Version"];
+}
+
+<div id="react-app">Loading...</div>
+
+@section scripts {
+    @Html.Raw(ViewData["WCPScript"])
+
+    <script type="text/javascript">
+        let apiUrl = '@ViewData["ApiUrl"]';
+        let companyName = '@ViewData["CompanyName"]';
+        let companyAddress = '@ViewData["CompanyAddress"]';
+        let companyAddress2 = '@ViewData["CompanyAddress2"]';
+        let companyPhone = '@ViewData["CompanyPhone"]';
+        let companyEmail = '@ViewData["CompanyEmail"]';
+        let companyWebsite = '@ViewData["CompanyWebsite"]';
+    </script>
+    <script src="~/dist/main-client.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+}

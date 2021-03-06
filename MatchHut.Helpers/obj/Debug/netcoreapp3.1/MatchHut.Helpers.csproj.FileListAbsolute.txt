@@ -1,0 +1,9 @@
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\bin\Debug\netcoreapp3.1\MatchHut.Helpers.deps.json
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\bin\Debug\netcoreapp3.1\MatchHut.Helpers.dll
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\bin\Debug\netcoreapp3.1\MatchHut.Helpers.pdb
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\obj\Debug\netcoreapp3.1\MatchHut.Helpers.csprojAssemblyReference.cache
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\obj\Debug\netcoreapp3.1\MatchHut.Helpers.AssemblyInfoInputs.cache
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\obj\Debug\netcoreapp3.1\MatchHut.Helpers.AssemblyInfo.cs
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\obj\Debug\netcoreapp3.1\MatchHut.Helpers.csproj.CoreCompileInputs.cache
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\obj\Debug\netcoreapp3.1\MatchHut.Helpers.dll
+G:\Projects\MatchHut\matchhut-api\POSSystems.Helpers\obj\Debug\netcoreapp3.1\MatchHut.Helpers.pdb

@@ -1,0 +1,9 @@
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\bin\Debug\netcoreapp3.1\POSSystems.Helpers.deps.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\bin\Debug\netcoreapp3.1\POSSystems.Helpers.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\bin\Debug\netcoreapp3.1\POSSystems.Helpers.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\obj\Debug\netcoreapp3.1\POSSystems.Helpers.csprojAssemblyReference.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\obj\Debug\netcoreapp3.1\POSSystems.Helpers.AssemblyInfoInputs.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\obj\Debug\netcoreapp3.1\POSSystems.Helpers.AssemblyInfo.cs
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\obj\Debug\netcoreapp3.1\POSSystems.Helpers.csproj.CoreCompileInputs.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\obj\Debug\netcoreapp3.1\POSSystems.Helpers.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Helpers\obj\Debug\netcoreapp3.1\POSSystems.Helpers.pdb

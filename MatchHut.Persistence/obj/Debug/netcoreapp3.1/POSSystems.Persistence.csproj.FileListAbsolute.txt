@@ -1,0 +1,15 @@
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Persistence.deps.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Persistence.runtimeconfig.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Persistence.runtimeconfig.dev.json
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Persistence.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Persistence.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Core.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\bin\Debug\netcoreapp3.1\POSSystems.Core.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.csprojAssemblyReference.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.AssemblyInfoInputs.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.AssemblyInfo.cs
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.csproj.CoreCompileInputs.cache
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.csproj.CopyComplete
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.dll
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.pdb
+G:\Workspaces\POSSystem\POSSystems-upgrade\POSSystems.Persistence\obj\Debug\netcoreapp3.1\POSSystems.Persistence.genruntimeconfig.cache

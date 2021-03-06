@@ -1,0 +1,4 @@
+G:\Projects\MatchHut\matchhut-api\POSSystems.Web.Test\obj\Debug\netcoreapp3.1\MatchHut.UnitTests.csprojAssemblyReference.cache
+G:\Projects\MatchHut\matchhut-api\POSSystems.Web.Test\obj\Debug\netcoreapp3.1\MatchHut.UnitTests.AssemblyInfoInputs.cache
+G:\Projects\MatchHut\matchhut-api\POSSystems.Web.Test\obj\Debug\netcoreapp3.1\MatchHut.UnitTests.AssemblyInfo.cs
+G:\Projects\MatchHut\matchhut-api\POSSystems.Web.Test\obj\Debug\netcoreapp3.1\MatchHut.UnitTests.csproj.CoreCompileInputs.cache
